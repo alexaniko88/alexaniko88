@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexaniko88&label=Profile%20views&color=0e75b6&style=flat" alt="alexaniko88" /> </p>
 
+![16679120_5765403](https://github.com/alexaniko88/alexaniko88/assets/40612984/73662391-c452-4d98-a778-938acd17984b)
+
+
 - 💬 Ask me about **flutter or android**
 
 - 📫 How to reach me **alextym88@gmail.com**
